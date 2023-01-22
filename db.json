@@ -3,7 +3,7 @@
     {
       "id": 101,
       "fullName": "Camilo Test Rodriguez",
-      "nit": 1026259819,
+      "nit": "1026259819",
       "contact": "3107983585",
       "email": "sinesteci@hotmail.com",
       "status": true
@@ -11,7 +11,7 @@
     {
       "id": 102,
       "fullName": "Juan Gonzalez",
-      "nit": 1026259820,
+      "nit": "1026259820",
       "contact": "3107983585",
       "email": "juan.gonzalez818@gmail.com",
       "status": true
@@ -19,7 +19,7 @@
     {
       "id": 103,
       "fullName": "The Key Code",
-      "nit": 1026259821,
+      "nit": "1026259821",
       "contact": "3107983585",
       "email": "thekeycode.net@gmail.com",
       "status": true
@@ -27,7 +27,7 @@
     {
       "id": 104,
       "fullName": "Juan Gonzalez IKA",
-      "nit": 1026259822,
+      "nit": "1026259822",
       "contact": "3107983585",
       "email": "jcgonzalez@ikatechsolutions.com",
       "status": false
