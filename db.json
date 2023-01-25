@@ -31,6 +31,14 @@
       "contact": "3107983585",
       "email": "jcgonzalez@ikatechsolutions.com",
       "status": false
+    },
+    {
+      "id": 104,
+      "fullName": "Osmar Ortiz",
+      "nit": "osmar79",
+      "contact": "3107984444",
+      "email": "oortiz@ikatechsolutions.com",
+      "status": true
     }
     
   ]
